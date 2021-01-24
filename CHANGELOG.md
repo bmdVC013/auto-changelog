@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/bmdVC013/auto-changelog/compare/v1.1.0...v1.1.1) (2021-01-24)
+
+
+### Bug Fixes
+
+* remove node-modules ([45fb5e3](https://github.com/bmdVC013/auto-changelog/commit/45fb5e3c292d277094873fec5e8b9450d3a9c431))
+
 ## 1.1.0 (2021-01-24)
 
 
