@@ -1,6 +1,6 @@
 {
   "name": "auto-changelog",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "index.js",
   "repository": "https://github.com/bmdVC013/auto-changelog.git",
   "author": "DungBui <dungbm13@hybrid-techonologies.vn>",
