@@ -6,6 +6,10 @@
   "author": "DungBui <dungbm13@hybrid-techonologies.vn>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.1.0"
   }
 }
